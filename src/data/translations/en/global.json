@@ -1,0 +1,52 @@
+{
+    "presentation": {
+        "title": "Hello, I'm",
+        "name": "Jeffry",
+        "titleFinal": "A Software Developer",
+        "phrasePartOne": "Currently exploring the mysteries of code",
+        "phrasePartTwo": "and the wonders of programming.",
+        "buttonResume": "Resume",
+        "buttonProjects": "Projects",
+        "cardText": "Contact Me"
+    },
+    "aboutMe": {
+        "titleNormal": "About",
+        "titleColor": "Me",
+        "paragraphOne": "I’m a software engineer student who is currently exploring the mysteries of code and the wonders of programming (and some other things), I often find myself getting stuck in challenging projects (I don’t know why?!), but it has guided me to opportunities to learn about various subjects such as programming languages, IoT (Internet of Things), AI, etc.",
+        "paragraphTwo": "So, by the way, I am always open-minded to learn and explore every mystery. I would define myself as a person with high troubleshooting skills, and with a big capacity to adapt myself to almost any work, so I feel proud about that.",
+        "paragraphThree": "Oh, I almost forgot, below you can see some of the technologies I have used to develop the challenging projects I mentioned earlier."
+    },
+    "background": {
+        "titleNormal": "My",
+        "titleColor": "Background",
+        "toggleExperience": "Experience",
+        "toggleStudies": "Estudies"
+    },
+    "projects": {
+        "titleNormal": "My",
+        "titleColor": "Projects",
+        "toggleExperience": "Experience",
+        "toggleStudies": "Estudies"
+    },
+    "contact": {
+        "titleNormal": "Let's talk",
+        "titleColor": "Software",
+        "paragraph": "Hey there! Right now, I'm totally immersed in my studies as a full-time elite student at Cenfotec University, so my schedule's pretty jam-packed. If you've got any cool ideas or projects that won't clash with my studies, I'm all ears! Feel free to shoot me a message.",
+        "formPlaceholder": {
+            "name": "Name",
+            "email": "Email",
+            "message": "Message body",
+            "button": "Send"
+        },
+        "toast": {
+            "success": "Email sent successfully!",
+            "errorGlobal": "Fill out the fields correctly",
+            "errorName": "Name is required",
+            "errorEmail": "Email is required",
+            "errorMessage": "Message body is required"
+        }
+    },
+    "footer": {
+        "rights": "© 2024 Jeffry Valverde. All rights reserved."
+    }
+}

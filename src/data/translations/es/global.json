@@ -1,0 +1,50 @@
+{
+    "presentation": {
+        "title": "Hola! Soy",
+        "name": "Jeffry",
+        "titleFinal": "Desarrollador de software",
+        "phrasePartOne": "Actualmente explorando los misterios del código",
+        "phrasePartTwo": "y las maravillas de la programación.",
+        "buttonResume": "Curriculum",
+        "buttonProjects": "Proyectos",
+        "cardText": "Contáctame"
+    },
+    "aboutMe": {
+        "titleNormal": "Sobre",
+        "titleColor": "Mí",
+        "paragraphOne": "Soy un estudiante de ingeniería de software que actualmente está explorando los misterios del código y las maravillas de la programación (y algunas otras cosas), a menudo me encuentro atrapado en proyectos desafiantes (¡¿no sé por qué?!), pero esto me ha guiado a oportunidades para aprender sobre varios temas como lenguajes de programación, IoT (Internet de las cosas), IA, etc.",
+        "paragraphTwo": "Por cierto, siempre estoy abierto a aprender y explorar cualquier misterio. Me definiría como una persona con una gran capacidad para resolver problemas y adaptarme a casi cualquier trabajo, así que me siento orgulloso de ello.",
+        "paragraphThree": "Ah, casi lo olvido, abajo puedes ver algunas de las tecnologías que he utilizado para desarrollar los desafiantes proyectos que mencioné anteriormente."
+    },
+    "background": {
+        "titleNormal": "Mis",
+        "titleColor": "Antecedentes",
+        "toggleExperience": "Experiencia",
+        "toggleStudies": "Estudios"
+    },
+    "projects": {
+        "titleNormal": "Mis",
+        "titleColor": "Proyectos"
+    },
+    "contact": {
+        "titleNormal": "Hablemos de",
+        "titleColor": "Software",
+        "paragraph": "¡Hola! En este momento, estoy totalmente inmerso en mis estudios como estudiante de élite a tiempo completo en la Universidad Cenfotec, por lo que mi agenda está bastante apretada. Si tienes alguna idea o proyecto interesante que no interfiera con mis estudios, ¡estoy atento! No dudes en enviarme un mensaje.",
+        "formPlaceholder": {
+            "name": "Nombre",
+            "email": "Correo electrónico ",
+            "message": "Cuerpo del mensaje",
+            "button": "Enviar"
+        },
+        "toast": {
+            "success": "Correo electrónico enviado con éxito!",
+            "errorGlobal": "Completa los campos correctamente",
+            "errorName": "El nombre es obligatorio",
+            "errorEmail": "El correo electrónico es obligatorio",
+            "errorMessage": "El cuerpo del mensaje es obligatorio"
+        }
+    },
+    "footer": {
+        "rights": "© 2024 Jeffry Valverde. Todos los derechos reservados."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "judgingSystem": {
+        "title": "Sistema de juzgamiento",
+        "shortDescription": "Software for grading projects in the Intelligent Computing Olympics.",
+        "about": "Como parte de un equipo de 3 desarrolladores, contribuí al diseño y desarrollo de un sistema innovador para la evaluación integral de proyectos en las Olimpiadas de Computación Inteligente. El sistema, utilizado por 9 jueces y varias entidades administrativas, permite el registro y seguimiento de usuarios, dimensiones, torneos, proyectos y evaluaciones.",
+        "category": "Sistema de evaluación",
+        "date": "2024"
+    },
+    "simepci": {
+        "title": "SIMEPCI",
+        "shortDescription": "Software para administración de hospitales y servicios médicos.",
+        "about": "En un equipo de 4 desarrolladores, creamos un sistema integral para la gestión de citas médicas, con un calendario, pagos vía PayPal y confirmaciones automáticas. El proyecto, realizado para el Proyecto 2 en U Cenfotec, fue presentado con éxito a un panel académico.",
+        "category": "Administración de Hospitales",
+        "date": "2024"
+    },
+    "brandBook": {
+        "title": "Marca Personal",
+        "shortDescription": "Libro de marca para mejorar mi imagen personal y practicar mis habilidades de diseño.",
+        "about": "Este proyecto representa un paso clave en la refinación tanto de mi imagen personal como de mis habilidades de diseño. A través de la creación de mi Libro de Marca, me enfoqué en desarrollar una identidad de marca personal cohesiva y profesional. El proyecto me permitió experimentar con varios elementos de diseño, incluyendo la tipografía, la teoría del color y la narración visual, mientras aseguraba la consistencia en diferentes plataformas. Al trabajar en esto, mejoré mi capacidad para comunicar visualmente mis valores y visión profesionales, posicionándome de manera más efectiva dentro de mi campo.",
+        "category": "Marca Personal",
+        "date": "2023"
+    }
+}

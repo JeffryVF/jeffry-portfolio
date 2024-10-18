@@ -1,0 +1,23 @@
+{
+    "experienceOne": {
+        "startDate": "2022",
+        "endDate": "Present",
+        "position": "Software Developer",
+        "place": "Cenfotec University",
+        "description": "I have been developing software and IoT technologies since the start of my Excellence Scholarship: STEAM Technology, where I have utilized CircuitPython to achieve various objectives, such as controlling robots and enabling communication between different devices. I have worked on projects that include creating dashboards to display sensor data and designing web pages with iconographic interfaces for robot control."
+    },
+    "experienceTwo": {
+        "startDate": "13 May",
+        "endDate": "21 Aug. (2024)",
+        "position": "Judging System",
+        "place": "Cenfotec University",
+        "description": "As part of a team of 3 developers, I contributed to the design and development of an innovative system for the comprehensive evaluation of projects at the “Olimpiadas de Computación Inteligente”. The system, used by 9 judges and several administrative entities, allows the registration and tracking of users, dimensions, tournaments, projects and evaluations. It reduce times to 1 hour and half to 40 minutes."
+    },
+    "experienceThree": {
+        "startDate": "Oct 2022",
+        "endDate": "Dec 2022",
+        "position": "Computer Technical Support ",
+        "place": "University of Costa Rica",
+        "description": "I installed and maintained computer equipment, diagnosed technical issues, and promptly resolved user problems. Additionally, I managed inventories, adhered to company policies, and efficiently used ticketing systems for communication between users and technical support."
+    }
+}

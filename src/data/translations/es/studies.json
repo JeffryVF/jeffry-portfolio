@@ -1,0 +1,16 @@
+{
+    "studieOne": {
+        "startDate": "2022",
+        "endDate": "Present",
+        "position": "Ingeniería del software",
+        "place": "Universidad Cenfotec",
+        "description": "Actualmente estoy estudiando Ingeniería de Software como beneficiario de la Beca de Excelencia: Tecnología STEAM. Estoy adquiriendo habilidades en tecnologías como React, HTML, CSS, JavaScript, Node.js, C# y .NET. También he adquirido conocimientos en programación orientada a objetos (OOP) y patrones de diseño, aplicándolos en proyectos. El enfoque práctico de la universidad me permite trabajar en simulaciones del mundo real, mejorando mi capacidad para aplicar tecnologías, resolver problemas complejos y colaborar en equipos multidisciplinarios."
+    },
+    "studieTwo": {
+        "startDate": "2017",
+        "endDate": "2022",
+        "position": "Técnico Medio en Informática Empresarial",
+        "place": "CTP José Figueres Ferrer",
+        "description": "Realicé el Grado Medio en Informática Empresarial, donde adquirí sólidos conocimientos en lógica de programación y en el uso de lenguajes como Java y C++. Durante el programa, también desarrollé habilidades en contabilidad básica y administración de redes, lo que me permitió obtener una visión integral de los aspectos técnicos y empresariales de la informática. Esta formación me proporcionó una base sólida en el análisis, diseño y mantenimiento de sistemas informáticos, preparándome para afrontar retos tecnológicos en entornos profesionales."
+    }
+}

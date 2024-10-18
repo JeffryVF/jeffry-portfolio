@@ -1,0 +1,23 @@
+{
+    "experienceOne": {
+        "startDate": "2022",
+        "endDate": "Actualidad",
+        "position": "Desarrollador de software",
+        "place": "Universidad Cenfotec",
+        "description": "He estado desarrollando software y tecnologías IoT desde el inicio de mi Beca de Excelencia: Tecnología STEAM, donde he utilizado CircuitPython para lograr varios objetivos, como controlar robots y permitir la comunicación entre diferentes dispositivos. He trabajado en proyectos que incluyen la creación de tableros para mostrar datos de sensores y el diseño de páginas web con interfaces iconográficas para el control de robots."
+    },
+    "experienceTwo": {
+        "startDate": "13 May",
+        "endDate": "21 Aug. (2024)",
+        "position": "Sistema de juzgamiento",
+        "place": "Universidad Cenfotec",
+        "description": "Como parte de un equipo de 3 desarrolladores, contribuí al diseño y desarrollo de un sistema innovador para la evaluación integral de proyectos en las Olimpiadas de Computación Inteligente. El sistema, utilizado por 9 jueces y varias entidades administrativas, permite el registro y seguimiento de usuarios, dimensiones, torneos, proyectos y evaluaciones. Reduce tiempos de 1 hora y media a 40 minutos."
+    },
+    "experienceThree": {
+        "startDate": "Oct 2022",
+        "endDate": "Dec 2022",
+        "position": "Soporte técnico informático",
+        "place": "Universidad de Costa Rica",
+        "description": "Instalé y mantuve equipos informáticos, diagnosticé problemas técnicos y resolví rápidamente los problemas de los usuarios. Además, administré inventarios, cumplí con las políticas de la empresa y utilicé de manera eficiente los sistemas de tickets para la comunicación entre los usuarios y el soporte técnico."
+    }
+}

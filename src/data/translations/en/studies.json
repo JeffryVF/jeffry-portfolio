@@ -1,0 +1,16 @@
+{
+    "studieOne": {
+        "startDate": "2022",
+        "endDate": "Present",
+        "position": "Software Engineering",
+        "place": "Cenfotec University",
+        "description": "I am currently studying Software Engineering as a recipient of the Excellence Scholarship: STEAM Technology. I am acquiring skills in technologies such as React, HTML, CSS, JavaScript, Node.js, C#, and .NET. I have also gained knowledge in object-oriented programming (OOP) and design patterns, applying these in projects. The university's practical approach allows me to work on real-world simulations, enhancing my ability to apply technologies, solve complex problems, and collaborate in multidisciplinary teams."
+    },
+    "studieTwo": {
+        "startDate": "2017",
+        "endDate": "2022",
+        "position": "Middle Technician in Business Computing",
+        "place": "CTP José Figueres Ferrer",
+        "description": "I completed a Middle Technician in Business Computing, where I acquired solid knowledge in programming logic and the use of languages such as Java and C++. During the program, I also developed skills in basic accounting and network administration, which allowed me to gain a comprehensive view of the technical and business aspects of computing. This training provided me with a solid foundation in the analysis, design and maintenance of computer systems, preparing me to face technological challenges in professional environments."
+    }
+}
