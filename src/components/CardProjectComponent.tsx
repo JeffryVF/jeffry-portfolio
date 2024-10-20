@@ -29,7 +29,7 @@ export const CardProjectComponent: React.FC<ICardProjectComponent> = ({ title, s
                         </h6>
                     </div>
                     
-                    <p className="text-isabelline leading-normal font-light group-hover:text-van-dyke h-12 overflow-scroll">{shortDescription}</p>
+                    <p className="text-isabelline leading-normal font-light group-hover:text-van-dyke h-12 overflow-y-auto">{shortDescription}</p>
                 </div>
                     <div className="group m-3 inline-flex flex-wrap justify-start items-start gap-2">
                         <Swiper

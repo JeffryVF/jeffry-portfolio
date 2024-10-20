@@ -84,22 +84,26 @@ export const ContactPage: React.FC = () => {
     }
 
     return(
-        <div id="contact-me" className="flex flex-col justify-center items-center h-fit mb-28 mt-36">
-            <div className="grid grid-cols-2 gap-4">
-                <div className="flex flex-col justify-center items-center w-[32rem] col-span-2 xl:col-span-1 text-center xl:text-left">
-                    <SectionTitle textNormal={t("global.contact.titleNormal")} textColor={t("global.contact.titleColor")} py={1} textAlign="center" className="pb-2 xl:text-start"/>
-                    <p className="text-isabelline text-center xl:text-left">{t("global.contact.paragraph")}</p>
+        <div id="contact-me" className="flex flex-col justify-center items-center h-fit py-14 w-screen">
+            <div className="grid grid-cols-2 gap-4 w-full">
+                <div className="flex flex-col justify-center items-center xl:items-end col-span-2 xl:col-span-1">
+                    <div className="text-center xl:text-left w-5/6">
+                        <SectionTitle textNormal={t("global.contact.titleNormal")} textColor={t("global.contact.titleColor")} py={1} textAlign="center" className="pb-2 xl:text-start"/>
+                        <p className="text-isabelline text-center xl:text-left text-sm sm:text-lg">{t("global.contact.paragraph")}</p>
+                    </div>
                 </div>
-                <form onSubmit={handleSendEmail} className="flex flex-col justify-center items-center col-span-2 xl:col-span-1">
-                    <div className="space-x-3">
-                        <input type="text" name="name" value={name} onChange={(e)=> setName(e.target.value)} placeholder={t("global.contact.formPlaceholder.name")} className="bg-dun rounded-lg p-2 w-[11.7rem] placeholder:text-van-dyke placeholder:font-medium px-3"/>
-                        <input type="email" name="email" value={email} onChange={(e)=> setEmail(e.target.value)} placeholder={t("global.contact.formPlaceholder.email")} className="bg-dun rounded-lg p-2 w-[11.7rem] placeholder:text-van-dyke placeholder:font-medium px-3"/>
-                    </div>
-                    <textarea name="body" value={body} onChange={(e)=> setBody(e.target.value)} placeholder={t("global.contact.formPlaceholder.message")} className="my-3 bg-dun rounded-lg p-2 w-96 h-36 placeholder:text-van-dyke placeholder:font-medium resize-none px-3"></textarea>
-                    <div className="flex flex-row justify-center xl:justify-start items-center xl:items-start w-full xl:px-16">
-                        <ButtonComponent type="submit" text={t("global.contact.formPlaceholder.button")} styleType="normal" icon={<BsFillSendFill className="text-base"/>}/>
-                    </div>
-                </form>
+                <div className="flex flex-col justify-center items-center col-span-2 xl:col-span-1">
+                    <form onSubmit={handleSendEmail} className="w-5/6 grid grid-cols-1">
+                        <div className="grid grid-cols-2 gap-2 px-5 items-center">
+                            <input type="text" name="name" value={name} onChange={(e)=> setName(e.target.value)} placeholder={t("global.contact.formPlaceholder.name")} className="bg-dun rounded-lg p-2 placeholder:text-van-dyke placeholder:font-medium col-span-2 md:col-span-1 text-sm sm:text-base"/>
+                            <input type="email" name="email" value={email} onChange={(e)=> setEmail(e.target.value)} placeholder={t("global.contact.formPlaceholder.email")} className="bg-dun rounded-lg p-2  placeholder:text-van-dyke placeholder:font-medium col-span-2 md:col-span-1 text-sm sm:text-base"/>
+                            <textarea name="body" value={body} onChange={(e)=> setBody(e.target.value)} placeholder={t("global.contact.formPlaceholder.message")} className="bg-dun rounded-lg p-2 h-36 placeholder:text-van-dyke placeholder:font-medium resize-none px-3 col-span-2 text-sm sm:text-base"/>
+                            <div className="flex w-full col-span-2 justify-center xl:justify-start">
+                                <ButtonComponent type="submit" text={t("global.contact.formPlaceholder.button")} styleType="normal" icon={<BsFillSendFill className="text-sm sm:text-base"/>}/>    
+                            </div>
+                        </div>
+                    </form>
+                </div>
             </div>
         </div>
     )

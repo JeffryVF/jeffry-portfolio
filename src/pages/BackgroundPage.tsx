@@ -50,7 +50,7 @@ export const BackgroundPage: React.FC = () => {
     }
 
     return(
-        <div className="w-screen flex flex-col justify-center items-center h-fit my-28">
+        <div className="w-screen flex flex-col justify-center items-center h-fit py-14">
             <SectionTitle textNormal={t('global.background.titleNormal')} textColor={t('global.background.titleColor')}/>
             <div className="rounded-xl bg-dun space-x-1 p-3 mb-5 transition-all">
                 <label 

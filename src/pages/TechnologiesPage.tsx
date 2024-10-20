@@ -18,10 +18,28 @@ import 'swiper/css/autoplay';
 
 export const TechnologiesPage: React.FC = () => {
     return(
-        <div className="flex justify-center items-center h-fit my-28">
+        <div className="flex justify-center items-center h-fit py-14">
             <Swiper
                 spaceBetween={50}
-                slidesPerView={4}
+                slidesPerView={1}
+                breakpoints={{
+                    360: {
+                        slidesPerView: 3,
+                        spaceBetween: 20,
+                    },
+                    640: {
+                        slidesPerView: 2,
+                        spaceBetween: 20,
+                    },
+                      768: {
+                        slidesPerView: 4,
+                        spaceBetween: 40,
+                    },
+                      1024: {
+                        slidesPerView: 5,
+                        spaceBetween: 50,
+                    },
+                }}
                 className="hover:cursor-grab w-5/6"
                 autoplay={{ delay: 3000, disableOnInteraction: false }}
                 modules={[Autoplay]}
